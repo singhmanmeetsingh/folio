@@ -40,7 +40,6 @@ function alert(txt) {
 
 var discord = "https://discord.com/channels/@me/mushroom990/";
 // var spotify = "https://open.spotify.com/user/syog7dqyl6traoo16ptiremah";
-// var steam = "https://steamcommunity.com/id/sailingsquid/";
 var instagram = "https://instagram.com/m9631singh?igshid=OGQ5ZDc2ODk2ZA==";
 var email = 'mailto:workmanmeet7@gmail.com';
 
@@ -69,7 +68,6 @@ whoami = [
 social = [
   "<br>",
   // 'spotify        <a href="' + spotify + '" target="_blank">spotify/syog7dqyl6traoo16ptiremah' + "</a>",
-  // 'steam          <a href="' + steam + '" target="_blank">steamcommunity/sailingsquid' + '</a>',
   'instagram      <a href="' + instagram + '" target="_blank">instagram/m9631singh' + '</a>',
   'discord        <a href="' + discord + '" target="_blank">Add Me mushroom990' + "</a>",
   "<br>"
@@ -193,7 +191,7 @@ function commander(cmd) {
       newTab(steam);
       break;
     case "discord":
-      addLine("Add Me Mrs Kwan#1337", "color2", 0);
+      addLine("Add Me Mushroom990", "color2", 0);
       break;
     case "instagram":
       addLine("Opening Instagram...", "color2", 0);
